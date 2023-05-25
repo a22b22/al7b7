@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I am currently improving my web development skills.
+🌱 I'm currently improving my web development skills.
 
 <!--
 **al7b7/al7b7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
